@@ -1,0 +1,27 @@
+[
+  {
+    "name": "CBL",
+    "description": "Certified Lover Boy (abreviado como CBL), es un álbum escrito por Drake y que está compuesto de 21 canciones",
+    "image_url": "https://raw.githubusercontent.com/javiCeballos/fp/main/unedited/CLB%20Album%20Drake.jpg"
+  },
+  {
+    "name": "Culture III",
+    "description": "Culture III es el último album que ha lanzado el grupo Migos de su saga Culture. Este álbum esta compuesto de 19 canciones y tiene una version deluxe que tiene 5 canciones más",
+    "image_url": "https://raw.githubusercontent.com/javiCeballos/fp/main/unedited/Culture%20III%20Album%20Migos.jpg"
+  },
+  {
+    "name": "Faith",
+    "description": "Faith es un álbum escrito por el fallecido rapero americano Pop Smoke y este está compuesto de 20 canciones y tiene una versión deluxe que tiene 30 canciones",
+    "image_url": "https://raw.githubusercontent.com/javiCeballos/fp/main/unedited/Faith%20Album%20Pop%20Smoke.jpg"
+  },
+  {
+    "name": "ISSA",
+    "description": "ISSA es un álbum escrito por el rapero 21 Savage y está compuesto por 14 canciones",
+    "image_url": "https://raw.githubusercontent.com/javiCeballos/fp/main/unedited/ISSA%20Album%2021%20savage.jpg"
+  },
+  {
+    "name": "Sincerelyn Kentrell",
+    "description": "Sincerely Kentrell es el último álbum lanzado por el rappero YoungBoy Never Broke Again (o NBA YoungBoy), y está compuesto de 23 canciones",
+    "image_url": "https://raw.githubusercontent.com/javiCeballos/fp/main/unedited/Sincerely%20Kentrell%20Album%20NBA%20Youngboy.jpg"
+  }
+]
